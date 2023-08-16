@@ -1,3 +1,5 @@
+//Gauss Elimination Method
+
 #include<stdio.h>
 int main()
 {
@@ -43,5 +45,5 @@ int main()
     {
         printf("\nx%d=%f\t",i,x[i]);
     }
-    return(0);
+ï¿½ï¿½ï¿½ï¿½return(0);
 }

@@ -23,7 +23,7 @@ int main()
 		    x0=x0+h;
 		}
 	}
-	printf("The value of y is %f at x=%f",y0,x0);
+	printf("The value of y is %f at x= %f", y0, x0);
 	
 	return 0;
 }
